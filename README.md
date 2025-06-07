@@ -3,6 +3,10 @@
 A lightweight Retrieval-Augmented Generation (RAG) chatbot built using `Streamlit`, `OpenAI`, and `ChromaDB`. This chatbot lets you ingest custom knowledge (`data.txt`) and ask questions over it using OpenAI or Gemini models.
 
 ---
+# Architechure
+<img src="https://github.com/user-attachments/assets/f8a048bb-e49a-4c6f-834e-e2450b828c82" alt="RAG Chatbot Architecture" width="10000" height="600">
+
+---
 
 ## 🧩 Features
 
